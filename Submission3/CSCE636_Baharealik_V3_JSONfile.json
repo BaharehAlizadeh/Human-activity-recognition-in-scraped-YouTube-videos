@@ -1,0 +1,62 @@
+[
+  {
+    "videoId": "fztw1S4qpjA",
+    "type": "segment",
+    "startTime": 0.00,
+    "endTime": 0.01,
+    "observer": "CSCE636-Spring2021-Baharealik-v3",
+    "isHuman": true,
+    "label": "cutting",
+    "labelConfidence": 0.95
+  },
+  {
+    "videoId": "h67s5uoXPfo",
+    "type": "segment",
+    "startTime": 0.15,
+    "endTime": 0.03,
+    "observer": "CSCE636-Spring2021-Baharealik-v3",
+    "isHuman": true,
+    "label": "cutting",
+    "labelConfidence": 0.85
+  },
+  {
+    "videoId": "h67s5uoXPfo",
+    "type": "segment",
+    "startTime": 1.33,
+    "endTime": 1.36,
+    "observer": "CSCE636-Spring2021-Baharealik-v3",
+    "isHuman": true,
+    "label": "cutting",
+    "labelConfidence": 0.84
+  },
+  {
+    "videoId": "h67s5uoXPfo",
+    "type": "segment",
+    "startTime": 1.48,
+    "endTime": 1.54,
+    "observer": "CSCE636-Spring2021-Baharealik-v3",
+    "isHuman": true,
+    "label": "cutting",
+    "labelConfidence": 0.81
+  },
+  {
+    "videoId": "aoqVGdmVlKk",
+    "type": "segment",
+    "startTime": 4.26,
+    "endTime": 5.26,
+    "observer": "CSCE636-Spring2021-Baharealik-v3",
+    "isHuman": true,
+    "label": "cutting",
+    "labelConfidence": 0.95
+  },
+  {
+    "videoId": "aoqVGdmVlKk",
+    "type": "segment",
+    "startTime": 7.26,
+    "endTime": 8.26,
+    "observer": "CSCE636-Spring2021-Baharealik-v3",
+    "isHuman": true,
+    "label": "cutting",
+    "labelConfidence": 0.95
+  },
+]
