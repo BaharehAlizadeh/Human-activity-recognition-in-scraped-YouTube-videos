@@ -1,4 +1,4 @@
 Submission 10
-Demo video training
-
-Demo video test
+Demo video for training and testing:
+https://drive.google.com/drive/folders/1ixTj3RZ6sZJwIUw4Um1doaOlaRzOMmyt?usp=sharing
+Since the Colab crashed multiple times, I coudln't run the model one more time to show the process. But the results are shown in the Jupyter notebook. Also, since the model was not changed comparing to the submission 3, you can refer to the demo video for submission 3 to see how the model runs on the Google colab.
